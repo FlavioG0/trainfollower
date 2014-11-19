@@ -1,0 +1,2 @@
+py.viaggia.treno v1.1 new feature and bug fixes:
+* Segue il treno specificato in tutto il suo percorso;  
